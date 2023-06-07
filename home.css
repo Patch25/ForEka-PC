@@ -51,9 +51,9 @@ button.Go-start-btn
   .column {
     border:5px solid rgb(173, 131, 190);
     float: left;
-    width: 40%;
+    width: 20%;
     padding: 10px;
-    height: 150px; 
+    height: 200px; 
   }
   
   .row:after {
