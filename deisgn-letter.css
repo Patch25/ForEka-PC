@@ -1,0 +1,55 @@
+html {
+    overflow-y: scroll;
+}
+
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body
+{
+background-image: url(paper.png);
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: scroll;
+}
+
+button.go-back-btn
+{
+    background-color: rgb(205, 158, 238);
+    color: white;
+    height: 95%;
+    width: 25%;
+    padding: 10px 24px; 
+    cursor: pointer;
+    float: center;
+}
+
+h1
+{
+    font-style: normal ;
+    font-size: 350%;
+    color: rgb(147, 100, 191);
+}
+
+h2
+{
+    text-align:  center;
+    font-style: normal ;
+    color: rgb(147, 100, 191);
+}
+
+h4
+{
+    text-align:  right;
+    font-style: normal ;
+    font-size: 350%;
+    color: rgb(147, 100, 191);
+}
+
+h5
+{
+    text-align: center;
+    font-style: normal ;
+color: rgb(154, 84, 219);
+}
