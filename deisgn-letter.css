@@ -12,6 +12,7 @@ background-image: url(paper.png);
 background-repeat: no-repeat;
 background-size: cover;
 background-attachment: scroll;
+background-position: center;
 }
 
 button.go-back-btn
